@@ -18,8 +18,7 @@ public class MainActivity extends ReactActivity {
 
 
 
-    privte void testMethod() 
-
-
+    privte void testMethod() {
+        log.e("MainActivity","testMesthod");
     }
 }
