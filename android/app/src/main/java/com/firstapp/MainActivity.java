@@ -13,8 +13,12 @@ public class MainActivity extends ReactActivity {
         return "FirstApp";
     }
 
+    private void setQoutes() {
+    }
 
-    privte void testMethod() {
+
+
+    privte void testMethod() 
 
 
     }
