@@ -14,8 +14,11 @@ public class MainActivity extends ReactActivity {
     }
 
     private void setQoutes() {
+    }
 
 
+
+    privte void testMethod() 
 
 
     }
