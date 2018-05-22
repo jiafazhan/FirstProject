@@ -13,7 +13,9 @@ public class MainActivity extends ReactActivity {
         return "FirstApp";
     }
 
-    private void setQoutes() {
+    private void setQuotes() {
+
+        log.d("MainActivity","testSetQuotes");
     }
 
 
